@@ -176,7 +176,6 @@ namespace SBTech.OrleansStatsDUtils
 
                 if (counter.IsValueDelta)
                     Metrics.GaugeDelta(counterName, value);
-
                 else
                     Metrics.GaugeAbsoluteValue(counterName, value);
             }
