@@ -3,6 +3,7 @@
     <metadata>
         <id>SBTech.OrleansStatsDUtils</id>
         <version>0.1.0</version>
+        <title>OrleansStatsDUtils</title>
         <authors>AntyaDev</authors>
         <owners>AntyaDev</owners>
         <licenseUrl>https://github.com/WeKnowSports/OrleansStatsDUtils/blob/master/LICENSE</licenseUrl>
